@@ -11,8 +11,16 @@ Selected visuals: bidtf_social_ad.png, output/playwright/binet-product-lane-bidt
 Workflow status: Mermaid and SVG diagrams created.
 WordPress status: draft created, not published.
 Privacy status: READY AFTER FAITH REVIEW.
-Recommended next action: create public GitHub repository, push this export folder only, then verify README and asset rendering.
+Recommended next action: verify rendered GitHub README/assets in browser, then perform Faith final public-facing review.
 
 
 GitHub auth status: verified locally after clearing Codex proxy environment variables.
+
+
+GitHub repository created: https://github.com/thefayth/bidtf
+Initial commit pushed: 9b786e348bcd8a29b0f2f80b6a32b71794714515
+Repository visibility: PUBLIC
+Default branch: main
+Metadata status: description, homepage, and topics configured.
+Receipt updated: 2026-06-19 03:06 -07:00
 
